@@ -23,6 +23,8 @@ body::before {
 nav{
     box-shadow: 13px 13px 5pc rgba(0 , 0, 0, 0.1);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: whitesmoke;
+    backdrop-filter: blur(10px);
 }
 
 nav ul{
