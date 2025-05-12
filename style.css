@@ -10,7 +10,7 @@ body::before {
     left: 0;
     width: 100vw;
     height: 70vh;
-    background-image: url(buffer.jpg);
+    background-image: url(a.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
